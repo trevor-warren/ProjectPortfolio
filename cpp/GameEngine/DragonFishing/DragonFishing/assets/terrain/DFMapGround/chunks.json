@@ -1,0 +1,724 @@
+{
+	"chunks" : [
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -4,
+					"Y" : -5.31765,
+					"Z" : 251.613
+				},
+				"Max" : {
+					"X" : 113.102,
+					"Y" : 26.082,
+					"Z" : 275.548
+				}
+			},
+			"SolidPath" : "Terrain1.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -5.17176,
+					"Y" : -5.31765,
+					"Z" : 123.271
+				},
+				"Max" : {
+					"X" : 133.984,
+					"Y" : 79.4805,
+					"Z" : 262
+				}
+			},
+			"SolidPath" : "Terrain2.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -4.83294,
+					"Y" : -5.26118,
+					"Z" : -5.09647
+				},
+				"Max" : {
+					"X" : 133.156,
+					"Y" : 118,
+					"Z" : 133.106
+				}
+			},
+			"SolidPath" : "Terrain3.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -4.37813,
+					"Y" : -5.19059,
+					"Z" : -132.734
+				},
+				"Max" : {
+					"X" : 90.0156,
+					"Y" : 110.344,
+					"Z" : 6
+				}
+			},
+			"SolidPath" : "Terrain4.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -5.79635,
+					"Y" : -5.14353,
+					"Z" : -257.733
+				},
+				"Max" : {
+					"X" : 69.9859,
+					"Y" : 40.2227,
+					"Z" : -122.151
+				}
+			},
+			"SolidPath" : "Terrain5.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -4.51294,
+					"Y" : -37.8765,
+					"Z" : 250.838
+				},
+				"Max" : {
+					"X" : 106,
+					"Y" : 5.13412,
+					"Z" : 275.548
+				}
+			},
+			"SolidPath" : "Terrain6.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -5.18118,
+					"Y" : -37.1868,
+					"Z" : -133.219
+				},
+				"Max" : {
+					"X" : 70,
+					"Y" : 6,
+					"Z" : 4.85647
+				}
+			},
+			"SolidPath" : "Terrain7.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -5.79635,
+					"Y" : -86,
+					"Z" : -260.257
+				},
+				"Max" : {
+					"X" : 69.9859,
+					"Y" : 6,
+					"Z" : -122
+				}
+			},
+			"SolidPath" : "Terrain8.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -66,
+					"Y" : -5.10588,
+					"Z" : 251.111
+				},
+				"Max" : {
+					"X" : 5.91667,
+					"Y" : 23.6367,
+					"Z" : 275.615
+				}
+			},
+			"SolidPath" : "Terrain9.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -133.115,
+					"Y" : -5.57176,
+					"Z" : -133.525
+				},
+				"Max" : {
+					"X" : 6,
+					"Y" : 63.6563,
+					"Z" : 6
+				}
+			},
+			"SolidPath" : "Terrain10.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : 122.904,
+					"Y" : -5.2,
+					"Z" : 122.96
+				},
+				"Max" : {
+					"X" : 194,
+					"Y" : 51.6641,
+					"Z" : 253.023
+				}
+			},
+			"SolidPath" : "Terrain11.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -132.378,
+					"Y" : -5.55294,
+					"Z" : -260.321
+				},
+				"Max" : {
+					"X" : 6,
+					"Y" : 68.2891,
+					"Z" : -122
+				}
+			},
+			"SolidPath" : "Terrain12.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -5.13412,
+					"Y" : -44.2808,
+					"Z" : -5.15294
+				},
+				"Max" : {
+					"X" : 132.701,
+					"Y" : 6,
+					"Z" : 134
+				}
+			},
+			"SolidPath" : "Terrain13.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -133.096,
+					"Y" : -5.06982,
+					"Z" : -283.244
+				},
+				"Max" : {
+					"X" : 0.214749,
+					"Y" : 67.9437,
+					"Z" : -250.005
+				}
+			},
+			"SolidPath" : "Terrain14.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -66,
+					"Y" : -38,
+					"Z" : 250.8
+				},
+				"Max" : {
+					"X" : 5.18118,
+					"Y" : 5.17176,
+					"Z" : 275.615
+				}
+			},
+			"SolidPath" : "Terrain15.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -132.824,
+					"Y" : -73.7843,
+					"Z" : 123.139
+				},
+				"Max" : {
+					"X" : 5.2,
+					"Y" : 5.17176,
+					"Z" : 261.172
+				}
+			},
+			"SolidPath" : "Terrain16.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : 154,
+					"Y" : -10,
+					"Z" : -4.4
+				},
+				"Max" : {
+					"X" : 164,
+					"Y" : 0,
+					"Z" : 4.4
+				}
+			},
+			"SolidPath" : "Terrain17.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -132.776,
+					"Y" : -34,
+					"Z" : -133.515
+				},
+				"Max" : {
+					"X" : 6,
+					"Y" : 6,
+					"Z" : 5.2
+				}
+			},
+			"SolidPath" : "Terrain18.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : 122.838,
+					"Y" : -38,
+					"Z" : 122.866
+				},
+				"Max" : {
+					"X" : 192.955,
+					"Y" : 5.75373,
+					"Z" : 250
+				}
+			},
+			"SolidPath" : "Terrain19.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -132.932,
+					"Y" : -86,
+					"Z" : -261.265
+				},
+				"Max" : {
+					"X" : 6,
+					"Y" : 6,
+					"Z" : -122
+				}
+			},
+			"SolidPath" : "Terrain20.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -261.2,
+					"Y" : -5.09647,
+					"Z" : -4.50521
+				},
+				"Max" : {
+					"X" : -122,
+					"Y" : 134,
+					"Z" : 134
+				}
+			},
+			"SolidPath" : "Terrain21.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -133.431,
+					"Y" : -34,
+					"Z" : -5.17961
+				},
+				"Max" : {
+					"X" : 6,
+					"Y" : 6,
+					"Z" : 133.162
+				}
+			},
+			"SolidPath" : "Terrain22.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -261.031,
+					"Y" : -5.14353,
+					"Z" : -261.271
+				},
+				"Max" : {
+					"X" : -122,
+					"Y" : 93.9063,
+					"Z" : -122
+				}
+			},
+			"SolidPath" : "Terrain23.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : 122.904,
+					"Y" : -28.3871,
+					"Z" : -4.4
+				},
+				"Max" : {
+					"X" : 190,
+					"Y" : 5.07765,
+					"Z" : 133.179
+				}
+			},
+			"SolidPath" : "Terrain24.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -133.035,
+					"Y" : -64.1319,
+					"Z" : -283.22
+				},
+				"Max" : {
+					"X" : 4.70154,
+					"Y" : 5.18118,
+					"Z" : -250
+				}
+			},
+			"SolidPath" : "Terrain25.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -195.346,
+					"Y" : -4.91075,
+					"Z" : -283.25
+				},
+				"Max" : {
+					"X" : -122.838,
+					"Y" : 78.3945,
+					"Z" : -250
+				}
+			},
+			"SolidPath" : "Terrain26.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -194,
+					"Y" : -14,
+					"Z" : 123.129
+				},
+				"Max" : {
+					"X" : -122.847,
+					"Y" : 6,
+					"Z" : 202
+				}
+			},
+			"SolidPath" : "Terrain27.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -187.758,
+					"Y" : 124.62,
+					"Z" : 100.128
+				},
+				"Max" : {
+					"X" : -135.052,
+					"Y" : 169.297,
+					"Z" : 133.885
+				}
+			},
+			"SolidPath" : "Terrain28.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -195.099,
+					"Y" : -44.4377,
+					"Z" : -283.176
+				},
+				"Max" : {
+					"X" : -122,
+					"Y" : 6,
+					"Z" : -250
+				}
+			},
+			"SolidPath" : "Terrain29.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -194,
+					"Y" : -5.81347,
+					"Z" : 123.016
+				},
+				"Max" : {
+					"X" : -122.453,
+					"Y" : 133.822,
+					"Z" : 202
+				}
+			},
+			"SolidPath" : "Terrain30.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -261.437,
+					"Y" : -86,
+					"Z" : -261.153
+				},
+				"Max" : {
+					"X" : -122,
+					"Y" : 5.97917,
+					"Z" : -122
+				}
+			},
+			"SolidPath" : "Terrain31.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -132.428,
+					"Y" : -5.81347,
+					"Z" : 124
+				},
+				"Max" : {
+					"X" : 5.97917,
+					"Y" : 41.9844,
+					"Z" : 260.729
+				}
+			},
+			"SolidPath" : "Terrain32.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -270,
+					"Y" : -5.13412,
+					"Z" : -246.142
+				},
+				"Max" : {
+					"X" : -250,
+					"Y" : 22.3393,
+					"Z" : -122
+				}
+			},
+			"SolidPath" : "Terrain33.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -261.031,
+					"Y" : -5.35529,
+					"Z" : -133.115
+				},
+				"Max" : {
+					"X" : -123.122,
+					"Y" : 65.1719,
+					"Z" : 5.28179
+				}
+			},
+			"SolidPath" : "Terrain34.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -133.431,
+					"Y" : -5.43059,
+					"Z" : -4.39687
+				},
+				"Max" : {
+					"X" : 6,
+					"Y" : 37.6094,
+					"Z" : 132.739
+				}
+			},
+			"SolidPath" : "Terrain35.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -270,
+					"Y" : -5.19059,
+					"Z" : -132.212
+				},
+				"Max" : {
+					"X" : -250,
+					"Y" : 28.0352,
+					"Z" : 4.79529
+				}
+			},
+			"SolidPath" : "Terrain36.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -261.2,
+					"Y" : -30,
+					"Z" : -5.12471
+				},
+				"Max" : {
+					"X" : -123.336,
+					"Y" : 6,
+					"Z" : 133.162
+				}
+			},
+			"SolidPath" : "Terrain37.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -271.205,
+					"Y" : -30,
+					"Z" : -4.76706
+				},
+				"Max" : {
+					"X" : -251.12,
+					"Y" : 4.57882,
+					"Z" : 34
+				}
+			},
+			"SolidPath" : "Terrain38.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -270,
+					"Y" : -46,
+					"Z" : -132.993
+				},
+				"Max" : {
+					"X" : -250,
+					"Y" : 5.77199,
+					"Z" : 5.16235
+				}
+			},
+			"SolidPath" : "Terrain39.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -5.16235,
+					"Y" : -73.6714,
+					"Z" : 122.937
+				},
+				"Max" : {
+					"X" : 133.2,
+					"Y" : 5.2,
+					"Z" : 262
+				}
+			},
+			"SolidPath" : "Terrain40.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : 122.904,
+					"Y" : -5.15294,
+					"Z" : -4.4
+				},
+				"Max" : {
+					"X" : 190,
+					"Y" : 33.9375,
+					"Z" : 132.889
+				}
+			},
+			"SolidPath" : "Terrain41.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -190,
+					"Y" : 124.198,
+					"Z" : 122.969
+				},
+				"Max" : {
+					"X" : -128.587,
+					"Y" : 170,
+					"Z" : 169.284
+				}
+			},
+			"SolidPath" : "Terrain42.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -261.068,
+					"Y" : -46,
+					"Z" : -133.159
+				},
+				"Max" : {
+					"X" : -122.76,
+					"Y" : 6,
+					"Z" : 5.28179
+				}
+			},
+			"SolidPath" : "Terrain43.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -270,
+					"Y" : -78.5666,
+					"Z" : -235.718
+				},
+				"Max" : {
+					"X" : -250,
+					"Y" : 5.89063,
+					"Z" : -122
+				}
+			},
+			"SolidPath" : "Terrain44.obj",
+			"WaterPath" : ""
+		},
+		{
+			"BoundingBox" : {
+				"Min" : {
+					"X" : -270,
+					"Y" : -4.81412,
+					"Z" : -5.01176
+				},
+				"Max" : {
+					"X" : -250.047,
+					"Y" : 28.0352,
+					"Z" : 34
+				}
+			},
+			"SolidPath" : "Terrain45.obj",
+			"WaterPath" : ""
+		}
+	]
+}
